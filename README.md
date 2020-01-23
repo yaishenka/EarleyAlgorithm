@@ -3,9 +3,9 @@
 
 
 
-# EarlyAlgorithm
+# EarleyAlgorithm
 
-Realization of Early algorithm
+Realization of Earley algorithm
 
 [Source](http://www.mi-ras.ru/~sk/lehre/fivt2013/Earley.pdf)
 
