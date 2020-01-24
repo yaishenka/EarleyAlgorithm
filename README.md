@@ -11,5 +11,5 @@ Realization of Earley algorithm
 
 [Lecture](https://www.youtube.com/watch?v=P6qWLT_TFtw)
 
-[Documentation](https://yaishenka.github.io/EarlyAlgorithm/)
+[Documentation](https://yaishenka.github.io/EarleyAlgorithm/)
 
