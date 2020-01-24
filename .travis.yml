@@ -24,6 +24,7 @@ script:
   - ./Test
   - cd ..
   - doxygen Doxyfile
+  - cd build
 
 addons:
   apt:
