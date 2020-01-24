@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.com/yaishenka/EarleyAlgorithm.svg?token=pCrpi9sFsEEr78ZMRHRN&branch=master)](https://travis-ci.com/yaishenka/EarleyAlgorithm)
-[![codecov](https://codecov.io/gh/yaishenka/EarleyAlgorithm/branch/master/graph/badge.svg?token=bnUBDq4XLg)](https://codecov.io/gh/yaishenka/EarleyAlgorithm)
+[![codecov](https://codecov.io/gh/yaishenka/EarleyAlgorithm/branch/master/graph/badge.svg)](https://codecov.io/gh/yaishenka/EarleyAlgorithm)
 
 
 
